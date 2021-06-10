@@ -141,8 +141,11 @@ p{
 /* Show Case */
 
 #showcase{
-    background: url("../img/showcase.jpg") no-repeat center center/cover;
+    background: url("../img/interior-1026452.jpg") no-repeat center center/cover;
     height: 720px;
+    
+
+
 }
 
 #showcase .showcase-content{
